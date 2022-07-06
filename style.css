@@ -1,0 +1,56 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.font-color{
+    font-size: 20px;
+    color: white;
+    font-weight: 700px;
+    padding: 10px 15px;
+    }
+.background{
+    background-image: url(images/donation13.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 200px;
+    font-size: medium;
+    
+
+}
+h1{
+    font-size: 40px;
+}
+.donate-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    color: rgb(249, 244, 244);
+    font-weight: 700;
+    border-radius: 5px;
+}
+.part-two{
+    text-align: center;
+    padding-top: 120px;
+}
+.half-width{
+    background-color: rgb(252, 251, 251);
+  width: 50px;
+  border: 15px solid none;
+  padding: 50px;
+  margin: 20px;
+  
+  
+}
+.badal{
+    display: flex;
+    padding-left: 300px;
+}
+#specipic{
+    background-color: pink;
+    border: 5px solid rgb(245, 98, 98);
+}
+.underline{
+    text-decoration: underline;
+}
